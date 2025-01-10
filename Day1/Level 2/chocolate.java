@@ -1,5 +1,5 @@
 import java.util.*;
-public class p10{
+public class chocolate{
     public static void main(String[] args){
         Scanner sc  = new Scanner(System.in);
         int numberOfchoczolates = sc.nextInt();

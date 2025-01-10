@@ -1,5 +1,5 @@
 import java.util.*;
-public class p5{
+public class farCel{
     public static void main(String[] args){
         Scanner sc  = new Scanner(System.in);
         int farenhite = sc.nextInt();

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class p12 {
+public class kg_to_pound {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

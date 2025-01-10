@@ -1,5 +1,5 @@
 import java.util.*;
-public class p7{
+public class swap{
     public static void main(String[] args){
         Scanner sc  = new Scanner(System.in);
         int first = sc.nextInt();

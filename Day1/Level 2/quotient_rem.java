@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class p1 {
+public class quotient_rem{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
